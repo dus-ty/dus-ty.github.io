@@ -13,7 +13,7 @@ Enjoy!
 
 ### About Me
 
-I'm passionate about exploring new ideas, learning constantly, and sharing my journey with others. Whether it's diving into the latest tech trends, discussing practical solutions in cybersecurity, or reflecting on life’s lessons, I enjoy connecting with people through my stories.
+I'm a human. I can feel happy, sad, frustrated, embarrassed, excited, and proud (not in any particular order). I like to cook. I like to joke. I'm a social diplomat which helps me keep all of my amazing friends and make very few enemies. I like to dabble in security research (I hack legally), I would love to obtain a role as a penetration tester one day.
 
 ### Recent Posts
 
@@ -27,8 +27,9 @@ Here’s a look at some of my recent posts. Reach out if anything resonates with
 
 ### Connect With Me
 
-I'm always open to feedback, questions, and discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tdustin/) or reach out via email at [youremail@example.com]
+I'm always open to feedback, questions, and discussions. Feel free to reach out on:  
+[LinkedIn](https://www.linkedin.com/in/tdustin/)  
 <script type="text/javascript">
-  document.write('<a href="mailto:' + '' + '@' + 'example.com">[youremail@example.com]</a>');
-</script>
-Thanks for visiting my blog—happy reading!
+  document.write('<a href="mailto:' + '90dus.ty09' + '@' + '@gmail.com">[Email?]</a>');
+</script>  
+[Discord](https://discord.gg/NBkBGnvf2K) (Not my server but an amazing place to hang and a valuable resource for everything cyber security related)
