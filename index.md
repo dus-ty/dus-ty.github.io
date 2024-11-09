@@ -19,9 +19,7 @@ I'm a human. I can feel happy, sad, frustrated, embarrassed, excited, and proud 
 
 Here’s a look at some of my recent posts. Reach out if anything resonates with you!
 
-- [Post Title 1](./_posts/2024-11-08-post-title-1.md) - A brief description of this post.
-- [Post Title 2](./_posts/2024-10-20-post-title-2.md) - Another brief description.
-- [Post Title 3](./_posts/2024-09-15-post-title-3.md) - Yet another brief description.
+- [Got Git?](./_posts/2024-11-09-git-pages.md) - Try to build your own git page!
 
 ---
 
