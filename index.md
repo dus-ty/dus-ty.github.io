@@ -3,6 +3,8 @@ layout: default
 ---
 
 Blog. Frog. Fog.
+
+  
 I honestly have no idea what I'll be putting here yet. I wanted to start a blog for different projects I hoped to start in the coming year. I wanted to make this simple and I wanted to have more control over the content. I didn't want 10 ads or commercials floating on the screen while you're trying to read any of the uninteresting content I post. I said simple..so I meant after the hours of set up and fine tuning to get to this point. 
 
 ---
