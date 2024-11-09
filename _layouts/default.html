@@ -5,7 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
   <!-- Link to the theme's CSS (if it’s a GitHub Pages theme, it should be applied automatically) -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
   {{ content_for :head }}
 </head>
 <body>
