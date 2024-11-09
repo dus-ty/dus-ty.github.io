@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: modernist@v0.2.0
+theme: modernist
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
