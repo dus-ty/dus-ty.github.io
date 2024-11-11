@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav a {
+    color: #333; /* Initial link color */
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease; /* Smooth transition */
+  }
+  
+nav a:hover {
+    color: #007bff; /* Color when hovered over */
+  }
