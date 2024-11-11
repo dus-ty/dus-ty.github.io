@@ -253,6 +253,17 @@ header ul a strong {
   -webkit-font-smoothing: antialiased;
 }
 
+nav a {
+    color: #333; /* Initial link color */
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease; /* Smooth transition */
+}
+  
+nav a:hover {
+    color: #007bff; /* Color when hovered over */
+}
+
 section {
   padding: 15px 20px;
   font-size: 15px;
