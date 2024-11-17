@@ -3,9 +3,17 @@ layout: posts1
 title: postpage
 ---
 
-### Recent Posts
+### Posts
 
-Here’s a look at some of my recent posts. Reach out if anything resonates with you!
+I hope you find some of my posts insightful.
 
-- [Got Git?]({{ "/git-pages/" | relative_url }}) - Build your own GitHub page!  
-
+<p>
+  {% for post in site.posts %}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <br>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <br>
+      <small>{{ post.description }}</small>
+      <br>
+  {% endfor %}
+<p>

@@ -109,6 +109,25 @@
   color: #90a959;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+li a {
+  font-size: 1.2em;
+  color: #007bff;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
 html {
   background: #6C7989;
   background: #6C7989 linear-gradient(#6C7989, #434B55) fixed;
