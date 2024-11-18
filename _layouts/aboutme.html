@@ -1,26 +1,32 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{% seo %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  {% seo %}
+  <script data-goatcounter="https://dus-ty.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <center><h1>About me</h1></center>
-          <center><p>whoami</p></center>
+  {% include head-custom.html %}
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <center>
+        <h1>About me</h1>
+      </center>
+      <center>
+        <p>whoami</p>
+      </center>
       <!-- Simple Menu -->
       <nav style="text-align: center; margin-top: 10px;">
         <a href="{{ '/' | relative_url }}" style="margin: 0 10px;">Home</a>
@@ -28,18 +34,19 @@
         <a href="{{ '/postpage/' | relative_url }}" style="margin: 0 10px;">Posts</a>
         <a href="{{ '/contact/' | relative_url }}" style="margin: 0 10px;">Contact</a>
       </nav>
-        </header>
-      <section>
+    </header>
+    <section>
 
       {{ content }}
 
-      </section>
-    </div>
-    <footer>
+    </section>
+  </div>
+  <footer>
     {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </body>
+  </footer>
+  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+</body>
+
 </html>

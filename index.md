@@ -7,14 +7,14 @@ I wanted a space to post the different projects I hope to start in the coming ye
 
 Enjoy!  
 <br><br>
-<h3>Recent Posts</h3>
+<h3>Recent Posts</h3>  
+
 <p>
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:3 %}  
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <br>
       <small>{{ post.date | date: "%B %d, %Y" }}</small>
       <br>
       <small>{{ post.description }}</small>
-      <br>
-  {% endfor %}
-<p>
+      <br><br>
+  {% endfor %}</p>
