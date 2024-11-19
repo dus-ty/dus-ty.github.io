@@ -2,7 +2,6 @@
 layout: contacts
 title: "Contact"
 description: "Reach out. I appreciate any feedback or idea's."
-permalink: /contact/
 ---  
 
 ### Connect With Me

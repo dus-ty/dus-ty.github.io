@@ -2,7 +2,6 @@
 layout: aboutme
 title: "About Me"
 description: "Learn more about the person behind the ones and zeros, cybersecurity enthusiast, techie, and constant learner."
-permalink: /aboutme/
 ---  
 
 

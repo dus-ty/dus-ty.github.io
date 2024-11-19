@@ -2,7 +2,6 @@
 layout: posts1
 title: "Posts"
 description: "My posts about things I find interesting. Ranging from cybersecurity, security research, bug bounty findings, and things."
-permalink: /postpage/
 ---  
 
 ### Posts
