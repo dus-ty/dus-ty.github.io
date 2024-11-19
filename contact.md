@@ -14,5 +14,5 @@ I'm always open to feedback, questions, and discussions. Feel free to reach out 
 <!-- attempt to obfuscate my email.. -->
 - <script type="text/javascript">
   document.write('<a href="mailto:' + '90dus.ty09' + '@' + 'gmail.com">Email</a>');
-</script>
+</script>  
 - [Martian Defense Discord](https://discord.gg/NBkBGnvf2K) - An amazing place to hang and a valuable resource for everything cybersecurity related
