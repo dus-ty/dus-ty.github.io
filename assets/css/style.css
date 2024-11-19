@@ -111,12 +111,12 @@
 
 ul {
   list-style-type: disc; /* Use default bullets */
-  padding-left: 20px; /* Indentation for the list */
+  padding-left: 15px; /* Indentation for the list */
   margin: 0 0 1em; /* Adjust spacing around the list */
 }
 
 li {
-  margin-bottom: 0.5em; /* Reduce excessive spacing */
+  margin-bottom: 0.2em; /* Reduce excessive spacing */
 }
 
 li a {
@@ -126,7 +126,7 @@ li a {
 }
 
 li a:hover {
-  text-decoration: underline; /* Subtle hover effect */
+  text-decoration: none; /* Subtle hover effect */
 }
 
 html {
