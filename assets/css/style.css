@@ -110,22 +110,23 @@
 }
 
 ul {
-  padding: 0;
+  list-style-type: disc; /* Use default bullets */
+  padding-left: 20px; /* Indentation for the list */
+  margin: 0 0 1em; /* Adjust spacing around the list */
 }
 
 li {
-  margin-bottom: 0.5em; /* Reduce spacing between items */
-  line-height: 1.5; /* Maintain good readability */
+  margin-bottom: 0.5em; /* Reduce excessive spacing */
 }
 
 li a {
-  font-size: 1.2em;
-  color: #007bff;
+  font-size: inherit; /* Match font size to parent */
+  color: #007bff; /* Standardize link color */
   text-decoration: none;
 }
 
 li a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* Subtle hover effect */
 }
 
 html {
