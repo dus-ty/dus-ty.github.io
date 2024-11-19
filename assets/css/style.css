@@ -121,7 +121,7 @@ li {
 
 li a {
   font-size: inherit; /* Match font size to parent */
-  color: #007bff; /* Standardize link color */
+  color: #069; /* Standardize link color */
   text-decoration: none;
 }
 
