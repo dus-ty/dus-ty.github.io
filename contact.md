@@ -4,7 +4,7 @@ title: "Contact"
 description: "Reach out. I appreciate any feedback or idea's."
 ---
 
-### Connect With Me
+### Connect With Me  
 
 I'm always open to feedback, questions, and discussions. Feel free to reach out on:  
 
