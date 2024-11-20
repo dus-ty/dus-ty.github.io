@@ -121,12 +121,12 @@ li {
 
 li a {
   font-size: inherit; /* Match font size to parent */
-  color: #069; /* Standardize link color */
+  color: rgb(3, 117, 173); /* Standardize link color */
   text-decoration: none;
 }
 
 li a:hover {
-  text-decoration: none; /* Subtle hover effect */
+  font-weight: bold; /* Subtle hover effect */
 }
 
 html {
