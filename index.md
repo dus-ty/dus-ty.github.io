@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "web-page.com"
 description: "A space to share my tech projects, cybersecurity learnings, and ideas."
 ---  
 

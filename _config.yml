@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Insert Creative Title
+title: web-page.com
 # email: your-email@example.com
 description: Blog site to share my thoughts on cybersecurity topics, showcase my projects, and just show off.
 baseurl: "" # the subpath of your site, e.g. /blog
